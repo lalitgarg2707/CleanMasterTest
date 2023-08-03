@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D5kAgiLOFxR3Lj7L9TKUWTwUPJr7GP+c5kBy6+gG4ac=",
+  "Source": "FileUploadAPI",
+  "BasePath": "_content/FileUploadAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
